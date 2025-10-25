@@ -1,3 +1,4 @@
+    
 ## GitHub Innovation Graph
 
 This repo contains structured data files of public activity on GitHub, aggregated by economy on a quarterly basis from 2020 onward.
